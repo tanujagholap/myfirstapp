@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "roll": "1",
+      "name": "kranti",
+      "marks": "56",
+      "id": 2
+    },
+    {
+      "roll": "2",
+      "name": "tanu",
+      "marks": "70",
+      "id": 3
+    },
+    {
+      "roll": "3",
+      "name": "Rohit",
+      "marks": "90",
+      "id": 4
+    }
+  ]
+}
